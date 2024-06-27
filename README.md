@@ -1,0 +1,1 @@
+We used Selenium, a Python package, to scrape job postings from Indeed, creating our own dataset. By feeding data into Tableau , we conducted a comprehensive analysis of the US job market. This project helps job seekers in finding relevant positions, focusing on specific states and areas within the US.
